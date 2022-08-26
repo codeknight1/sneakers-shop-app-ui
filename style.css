@@ -10,7 +10,7 @@ body{
 
 nav{
     background-color: #111;
-    color:white;
+    color:#fff;
     padding: 20px 50px;
 }
 
@@ -22,7 +22,7 @@ nav{
 
 .logo{
     font-weight: 700px;
-    color:white;
+    color:#fff;
     font-size: 30px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
@@ -105,7 +105,7 @@ nav{
     right: 15%;
     font-size: 55px;
     font-weight: 700;
-    color:white;
+    color:#fff;
     text-align: center;
     z-index: 1;
 }
@@ -118,7 +118,7 @@ nav{
     padding: 5px;
     font-weight: 200;
     border: 1px solid gray;
-    color:white;
+    color:#fff;
     z-index: 1;
 }
 
@@ -137,8 +137,8 @@ nav{
 }
 
 .buyButton:hover{
-    background-color: white;
-    color: black;
+    background-color: #fff;
+    color: #000;
 }
 
 .sliderItem:nth-child(1) .sliderBg{
@@ -287,7 +287,7 @@ label{
     -webkit-box-shadow: 0px 0px 13px 2px rgba(0,0,0,0.3);
     box-shadow: 0px 0px 13px 2px rgba(0,0,0,0.3);
     background-color: #369e62;
-    color:white;
+    color:#fff;
     border:none;
     cursor: pointer;
 
@@ -298,7 +298,7 @@ label{
     height: 20px;
     position: absolute;
     background-color: gray;
-    color:white;
+    color:#fff;
     top: 10;
     right: 10;
     display: flex;
@@ -362,7 +362,7 @@ label{
     float:right;
     padding:10px 20px;
     background-color: black;
-    color:white;
+    color:#fff;
     font-weight: 600;
     cursor:pointer;
     border: none;
@@ -394,7 +394,7 @@ label{
 .newSeasonItem{
     flex: 1;
     background-color: black;
-    color:white;
+    color:#fff;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -460,7 +460,7 @@ footer{
 .fButton{
     padding: 7px;
     background-color: black;
-    color: white;
+    color: #fff;
     border:none;
     cursor:pointer;
 }
